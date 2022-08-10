@@ -5,6 +5,7 @@
 - Simply add an effect class and implement it by IImageEffectApplierService interface. No extra steps. It's plug and play.
 
 ### Note:
+- .Net 6
 - No validation has been done
 - Only happy path has been developed
 - A Postman collection is attached to the email sent
